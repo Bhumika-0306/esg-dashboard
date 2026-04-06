@@ -1,0 +1,11 @@
+.gradle/
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.model
+venv/
+.env
+.DS_Store
+Thumbs.db
+*.log

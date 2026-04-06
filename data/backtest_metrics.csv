@@ -1,0 +1,5 @@
+Strategy,Total_%,Ann_Return_%,Ann_Vol_%,Sharpe,MaxDD_%,WinRate_%
+EqualWeight,30.8,13.98,11.78,1.186,-9.51,65.4
+ESGWeighted,21.99,10.98,15.76,0.696,-9.05,57.7
+Momentum,19.62,11.44,22.81,0.502,-24.22,57.7
+Blend,-0.04,0.89,13.4,0.067,-14.72,61.5
